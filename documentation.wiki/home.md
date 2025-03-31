@@ -1,6 +1,6 @@
 # KALI PURPLE - LEVELING THE PLAYING FIELD
 
-[![Kali-Purple 2025.1a](./pictures:kali-purple-2025.1a-icon.png)](./pictures:kali-purple-2025.1a-icon.png)
+[![Kali-Purple 2025.1a](./pictures/kali-purple-2025.1a-icon.png)](./pictures/kali-purple-2025.1a-icon.png)
 
 ## We are making enterprise grade security accessible
 
