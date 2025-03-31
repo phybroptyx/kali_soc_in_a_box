@@ -1,63 +1,74 @@
 **[Kali Purple - Overview](home)**  
 [Kali Purple SOC-IAB - Overview](/010_10:-Kali-Purple-SOC-IAB---Overview)  
 
-
 <details>
 <summary>
-100 - IDENTIFY
+010 - Virtual Environment Configuration
 </summary> 
 
-**101 - Kali-Violet**
-- [Installation](/101_10:-Kali-Violet-Installation)
-- [OpenCTI](/101_20:-OpenCTI-Installation)
-- [GVM](/101_30:-GVM)
-- [Elastic Agent](/101_40:-Elastic-Agent)  
+**011 - Networking**
+
+**012 - Virtual Machine Configuration**
 
 </details>
 <details>
 <summary>
-200 - PROTECT
-</summary>
+100 - PROTECT Node
+</summary> 
 
-**201 - Byzantium**
-
-- [Installation](/201_10:-Byzantium-installation)  
-- [Aliases](/201_20:-Aliases)
-- [Elastic Agent](/201_30:-Elastic-Agent)
-- [Beats](/201_40:-Beats)
+**101 - Byzantium**
+- [OPNsense Installation](/101_10:-Kali-Violet-Installation)
+- [OPNsense Configuration](/101_20:-OpenCTI-Installation)
 
 </details>
 <details>
 <summary>
-300 - DETECT
-</summary>
+200 - Kali Purple
+</summary> 
+
+**201 - OS Installation**
+
+**202 - OS Configuration**
+
+</details>
+<details>
+<summary>
+300 - DETECT Node
+</summary> 
 
 **301 - Kali-Purple**
-
-- [Installation](/301_10:-Kali-Purple-installation)
-- [Firewall Settings](/301_20:-Kali-Purple-firewall-settings)
-- [Elastic stack](/301_31:-Elastic-Stack-Installation)
-- [Fleet Server](/301_34:-Fleet-Server-Installation)
-- [Metricbeat](/301_36:-Stack-Monitoring-with-Metricbeat)
-- [Filebeat](/301_38:-Stack-Monitoring-with-Filebeat)
+- [Elastic SIEM](/101_10:-Kali-Violet-Installation)
+- [Fleet Server](/101_10:-Kali-Violet-Installation)
+- [Beats](/101_10:-Kali-Violet-Installation)
 
 </details>
 <details>
 <summary>
-400 - RESPOND
-</summary>
+300 - IDENTIFY Node
+</summary> 
 
-**401 - Kali-Eminence**
-
-- [Installation](/401_10:-Kali-Eminence-Installation)
-- [Malcolm](/401_20:-Malcolm-Installation)
-- [Elastic Agent](/401_30:-Elastic-Agent)
-
+**301 - Kali-Violet**
+- [Elastic Agent](/101_10:-Kali-Violet-Installation)
+- [Docker](/101_10:-Kali-Violet-Installation)
+- [Greenbone Vulnerability Management](/101_10:-Kali-Violet-Installation)
+- [OpenCTI](/101_10:-Kali-Violet-Installation)
+- [MISP (coming soon)](/101_10:-Kali-Violet-Installation)
 
 </details>
 <details>
 <summary>
-500 - RECOVER
+300 - RESPOND Node
+</summary> 
+
+**301 - Kali-Eminence**
+- [Elastic Agent](/101_10:-Kali-Violet-Installation)
+- [Docker](/101_10:-Kali-Violet-Installation)
+- [Malcolm](/101_10:-Kali-Violet-Installation)
+
+</details>
+<details>
+<summary>
+400 - RECOVER
 </summary>
 </details>
 <details>

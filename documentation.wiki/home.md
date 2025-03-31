@@ -1,6 +1,6 @@
 # KALI PURPLE - LEVELING THE PLAYING FIELD
 
-[![Kali-Purple](https://gitlab.com/kalilinux/documentation/kali-purple/-/raw/main/pictures/kali-purple-logo-dragon-purple_white.png)](https://gitlab.com/kalilinux/documentation/kali-purple/-/raw/main/pictures/kali-purple-logo-dragon-purple_white.png)
+[![Kali-Purple 2025.1a](/pictures:kali-purple-2025.1a-icon.png)
 
 ## We are making enterprise grade security accessible
 

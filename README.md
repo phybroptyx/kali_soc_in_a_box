@@ -46,18 +46,23 @@ Please refer to the [wiki](https://gitlab.com/kalilinux/documentation/kali-purpl
 
 [![OpenCTI Dashboard](./pictures/OpenCTI-02-Vulnerabilities.png)](./pictures/OpenCTI-02-Vulnerabilities.png)  
 
-## Roadmap
+# Kali Purple SOC-in-a-Box 2025.1a Roadmap
 
-- [x] Create Kali Purple installer
-- [x] Include Elastic stack sources
-- [x] Package up Arkime
-- [x] Package up Cyberchef
-- [ ] Package up TheHive
-- [ ] Package up Elastic stack
-- [x] Release Kali Autopilot
-- [x] Create Kali Purple SOC-IAB Wiki
-- [ ] Release Kali Purple
-- [ ] Q3 2023 ff.: The community decides the future roadmap  
+## Updates
+- [ ] Upgrade base OS to Kali Purple 2025.1a
+- [ ] Upgrade OPNsense to 25.1
+- [ ] Upgrade Elastic to 8.17.4
+- [ ] Upgrade OpenCTI to 6.5.10
+- [ ] Upgrade Greenbone Vulnerability Management (GVM) to 25.1.3
+- [ ] Upgrade Malcolm/Hedgehog Linux to 25.03.01
+
+## Additions
+- [ ] Develop and Integrate centralized Docker Control Node
+- [ ] Develop and Integrate local APT repository
+- [ ] Develop and Integrate Single Sign-On capability for SOC applications
+- [ ] Develop and Integrate team communications capability
+- [ ] Develop and Integrate cyber incident handling capability
+- [ ] Develop and Integrate centralized SOC artifact storage
 
 ## Contributing
 
