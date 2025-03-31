@@ -2,7 +2,7 @@
 
 ## The ultimate SOC in a box
 
-[![Kali-Purple 2025.1a](./pictures:kali-purple-2025.1a-icon.png)](./pictures:kali-purple-2025.1a-icon.png)
+[![Kali-Purple 2025.1a](./pictures/kali-purple-2025.1a-icon.png)](./pictures/kali-purple-2025.1a-icon.png)
 
 ## Overview:
 
